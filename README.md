@@ -2,4 +2,4 @@
 Simple todo list
 
 
--Initial addition to repo
+-added files to repo
